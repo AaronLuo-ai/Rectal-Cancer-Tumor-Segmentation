@@ -1,7 +1,5 @@
 # TODO
 
-tnie prescribed these on 2024/09/19 :)
-
 - [x] Refactor `TrainDataset` and `TestDataset` into a single, unified class. Make `root_dir` a positional parameter to the `__init__` method.
   - We want to reduce code duplication as much as possible. Duplication leads to more bugs.
 - [ ] Fix your PyCharm's intellisense! Tell PyCharm which Python executable you're using. Make red and green squiggles go away.
